@@ -1,4 +1,0 @@
-FightOn
-=======
-
-fighton repository
